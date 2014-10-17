@@ -1,9 +1,3 @@
-
-#include<algorithm>
-#include<stdio.h>
-#define MAX 509
-#define LL long long int
-using namespace std;
 LL num[MAX];
 int main() {
     int N,i;
