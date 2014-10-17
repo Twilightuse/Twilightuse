@@ -1,5 +1,4 @@
-#include<stdlib.h>
-#include<string.h>
+
 #include<algorithm>
 #include<stdio.h>
 #define MAX 509
